@@ -1,1 +1,1 @@
-# GameRookiCompetition
+# GameRookieCompetition
